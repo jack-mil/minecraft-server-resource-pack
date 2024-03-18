@@ -1,25 +1,25 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/netherite_axe"
+    "layer0": "minecraft:item/golden_axe"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 99994
       }, 
-        "model": "minecraft:item/battleaxe/netherite_battleaxe"
+        "model": "minecraft:item/battleaxe/golden_battleaxe"
       },{
       "predicate": {
         "custom_model_data": 99999
       }, 
-        "model": "minecraft:item/warhammer/netherite_warhammer"
+        "model": "minecraft:item/warhammer/golden_warhammer"
       },
     {
       "predicate": {
         "custom_model_data": 999901
       },
-      "model": "minecraft:item/halbert/netherite_halbert"
+      "model": "minecraft:item/halbert/golden_halbert"
     }
 
   ]

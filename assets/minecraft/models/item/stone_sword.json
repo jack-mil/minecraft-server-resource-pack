@@ -1,50 +1,50 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/netherite_sword"
+    "layer0": "minecraft:item/stone_sword"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 99991
       },
-      "model": "minecraft:item/dagger/netherite_dagger"
+      "model": "minecraft:item/dagger/stone_dagger"
     },
     {
       "predicate": {
         "custom_model_data": 99992
       },
-      "model": "minecraft:item/claymore/netherite_claymore"
+      "model": "minecraft:item/claymore/stone_claymore"
     },
-    {
+{
       "predicate": {
         "custom_model_data": 99993
       },
-      "model": "minecraft:item/cutlass/netherite_cutlass"
+      "model": "minecraft:item/cutlass/stone_cutlass"
     },
     {
       "predicate": {
         "custom_model_data": 99995
       },
-      "model": "minecraft:item/lance/netherite_lance"
+      "model": "minecraft:item/lance/stone_lance"
     },
     {
       "predicate": {
         "custom_model_data": 99996
       },
-      "model": "minecraft:item/rapier/netherite_rapier"
+      "model": "minecraft:item/rapier/stone_rapier"
     },
     {
       "predicate": {
         "custom_model_data": 99998
       },
-      "model": "minecraft:item/katana/netherite_katana"
+      "model": "minecraft:item/katana/stone_katana"
     },
-{
+ {
       "predicate": {
         "custom_model_data": 999902
       },
-      "model": "minecraft:item/scythe/netherite_scythe"
+      "model": "minecraft:item/scythe/stone_scythe"
     }
   ]
 }

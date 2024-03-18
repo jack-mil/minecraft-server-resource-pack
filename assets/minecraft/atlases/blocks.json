@@ -1,0 +1,260 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:custom/molding_bench_front"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/molding_bench_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/molding_bench_tool_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/molding_bench_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/molding_bench_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_claymore_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_claymore_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_claymore_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_claymore_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_claymore_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_claymore_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_claymore_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_claymore_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_claymore_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_claymore_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_halberd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_halberd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_halberd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_halberd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_halberd"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/heater_shield"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_katana_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_katana_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_katana_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_katana_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_katana_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_katana_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_katana_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_katana_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_katana_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_katana_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_rapier_hilt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stripped_dark_oak_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/gold_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/gold_handle_rapier"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_lance"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_rapier_hilt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/neth_stick"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_rapier_hilt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_block"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_rapier_hilt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/longbow_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/longbow_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/0/a_longbow_pulling_0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/0/b_longbow_pulling_0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/arrow_tip"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/1/b_longbow_pulling_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/1/a_longbow_pulling_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/2/b_longbow_pulling_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/2/a_longbow_pulling_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/longbow/2/c_longbow_pulling_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_rapier_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/diamond_rapier_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_rapier_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_rapier_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_rapier_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_rapier_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_rapier_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/netherite_rapier_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_rapier_one"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stone_rapier_two"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/iron_round_shield"
+        }
+    ]
+}
